@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kishss_hub.twa",
+        "sha256_cert_fingerprints": ["45:2F:45:D9:36:10:7F:C0:49:92:E2:13:79:34:40:F1:00:3C:0D:D1:22:4E:FC:A9:63:1C:4C:0C:BA:79:9D:71"]
+      }
+    }]
